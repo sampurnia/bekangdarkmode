@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/LogoutMenu"
+        android:icon="@drawable/logoutt"
+        android:orderInCategory="600"
+        app:showAsAction="never"
+        android:title="Logout">
+    </item>
+    <item
+        android:id="@+id/InfoMenu"
+        android:icon="@drawable/infooo"
+        android:orderInCategory="300"
+        app:showAsAction="always"
+        android:title="TODO">
+    </item>
+    <item
+        android:id="@+id/ListMenu"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="TODO">
+    </item>
+    <item
+        android:id="@+id/RefreshMenu"
+        android:icon="@drawable/refresh"
+        android:orderInCategory="500"
+        app:showAsAction="never"
+        android:title="Refresh">
+    </item>
+    <item
+        android:id="@+id/NavigationMenu"
+        android:icon="@drawable/place"
+        android:orderInCategory="200"
+        app:showAsAction="always"
+        android:title="Navigation">
+    </item>
+</menu>

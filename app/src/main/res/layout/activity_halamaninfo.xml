@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".calonfragment.HALAMANINFO"
+    android:background="#141d26">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/truk2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="0dp"
+            android:layout_centerHorizontal="true"
+            app:srcCompat="@drawable/opentruck2"
+            android:layout_alignParentTop="true"/>
+        <ImageView
+            android:id="@+id/truk3"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="0dp"
+            android:layout_centerHorizontal="true"
+            app:srcCompat="@drawable/kt"
+            android:layout_below="@id/truk2"/>
+        <ImageView
+            android:id="@+id/truk4"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="0dp"
+            android:layout_centerHorizontal="true"
+            app:srcCompat="@drawable/kt2"
+            android:layout_below="@id/truk3"/>
+        <ImageView
+            android:id="@+id/truk5"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="0dp"
+            android:layout_centerHorizontal="true"
+            app:srcCompat="@drawable/kt1"
+            android:layout_below="@id/truk4"/>
+        <ImageView
+            android:id="@+id/truk6"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="0dp"
+            android:layout_centerHorizontal="true"
+            app:srcCompat="@drawable/kt3"
+            android:layout_below="@id/truk5"/>
+
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item
+            android:drawable="@drawable/ic_yellow"
+            android:duration="500" />
+
+        <item
+            android:drawable="@drawable/ic_yellow2"
+            android:duration="500" />
+
+</animation-list>

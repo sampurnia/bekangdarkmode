@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#141d26">
+
+
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/statinfo"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/btnDurlap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bggreen"
+        android:text="@string/batalayon_1"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:visibility="invisible"
+        android:fontFamily="@font/orbitron"
+        android:layout_below="@id/imageView19"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"/>
+
+    <Button
+        android:id="@+id/btnDurlap2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bgyellow"
+        android:text="@string/batalayon_1"
+        android:visibility="invisible"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:fontFamily="@font/orbitron"
+        android:layout_below="@id/imageView19"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"/>
+
+    <Button
+        android:id="@+id/btnDurlap3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bgred"
+        android:text="@string/batalayon_1"
+        android:visibility="invisible"
+        android:textColor="#000000"
+        android:fontFamily="@font/orbitron"
+        android:textSize="18sp"
+        android:layout_below="@id/imageView19"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"/>
+
+
+</RelativeLayout>

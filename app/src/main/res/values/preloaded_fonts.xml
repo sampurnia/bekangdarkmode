@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/allura</item>
+        <item>@font/kelly_slab</item>
+        <item>@font/michroma</item>
+        <item>@font/montserrat</item>
+        <item>@font/montserrat_alternates</item>
+        <item>@font/open_sans_light</item>
+        <item>@font/orbitron</item>
+        <item>@font/ubuntu_mono</item>
+    </array>
+</resources>

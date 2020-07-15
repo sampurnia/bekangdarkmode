@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bekang">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Ganilla2"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".HALAMANPERCOBAAN"
+            android:label="KTAD-1">
+
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".calonfragment.HALAMANMONITORING"
+            android:label="KTAD-1" />
+        <activity
+            android:name=".launch.halamanawal">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".launch.HALAMANKEDUA" />
+        <activity
+            android:name=".firebaseauth.HALAMANLOGIN"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".firebaseauth.HALAMANDAFTAR"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".firebaseauth.HALAMANPASSWORD"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".calonfragment.HALAMANUTAMA"
+            android:label="Home" />
+        <activity
+            android:name=".calonfragment.HALAMANINFO"
+            android:label="Info" />
+        <activity
+            android:name=".calonfragment.HALAMANSTATUS"
+            android:label="Status" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

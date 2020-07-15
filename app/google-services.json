@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041551279569",
+    "firebase_url": "https://kitchen-truck.firebaseio.com",
+    "project_id": "kitchen-truck",
+    "storage_bucket": "kitchen-truck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041551279569:android:38ed01693edb65a03b0cf0",
+        "android_client_info": {
+          "package_name": "com.example.bekang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041551279569-uumeu9j2pe4r89o27kltu24kq8enaegk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bekang",
+            "certificate_hash": "21b62e71ba1efb5aaf6fa4c575864c806de42154"
+          }
+        },
+        {
+          "client_id": "1041551279569-m6fngod505bgr10lcmjqe9qp9b1rgdu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAowbTp5HZKewQJr-yDtNWURajyiTEJlEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041551279569-m6fngod505bgr10lcmjqe9qp9b1rgdu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
