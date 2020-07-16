@@ -33,8 +33,8 @@ Berikut adalah hasil cuplikan gambar dari handphone Android 10 (Android Q)
 ![reset](https://user-images.githubusercontent.com/62535142/87619436-68510600-c746-11ea-9dfb-b03467f6c6ca.jpg)
 
 # Utama/Main Menu
-![utama](https://user-images.githubusercontent.com/62535142/87619622-caaa0680-c746-11ea-9511-5ab7e250660d.jpg)
-![menu](https://user-images.githubusercontent.com/62535142/87619625-cc73ca00-c746-11ea-9585-7f9a727f68a8.jpg)
+![utama](https://user-images.githubusercontent.com/62535142/87619964-93882500-c747-11ea-8f66-425f291f7724.png)
+![utamamenu](https://user-images.githubusercontent.com/62535142/87619970-9551e880-c747-11ea-94bd-be9151be6673.png)
 
 # Status
 ![maintenance](https://user-images.githubusercontent.com/62535142/87619451-6e46e700-c746-11ea-95ee-ec39a7bf8988.jpg)
